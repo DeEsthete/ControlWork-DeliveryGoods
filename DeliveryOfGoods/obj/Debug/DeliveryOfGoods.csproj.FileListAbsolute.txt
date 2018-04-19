@@ -1,0 +1,16 @@
+C:\Users\ПавловЕ\source\repos\DeliveryOfGoods\DeliveryOfGoods\bin\Debug\DeliveryOfGoods.exe.config
+C:\Users\ПавловЕ\source\repos\DeliveryOfGoods\DeliveryOfGoods\bin\Debug\DeliveryOfGoods.exe
+C:\Users\ПавловЕ\source\repos\DeliveryOfGoods\DeliveryOfGoods\bin\Debug\DeliveryOfGoods.pdb
+C:\Users\ПавловЕ\source\repos\DeliveryOfGoods\DeliveryOfGoods\bin\Debug\EntityFramework.dll
+C:\Users\ПавловЕ\source\repos\DeliveryOfGoods\DeliveryOfGoods\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ПавловЕ\source\repos\DeliveryOfGoods\DeliveryOfGoods\bin\Debug\EntityFramework.xml
+C:\Users\ПавловЕ\source\repos\DeliveryOfGoods\DeliveryOfGoods\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ПавловЕ\source\repos\DeliveryOfGoods\DeliveryOfGoods\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\ПавловЕ\source\repos\DeliveryOfGoods\DeliveryOfGoods\obj\Debug\DeliveryOfGoods.csprojResolveAssemblyReference.cache
+C:\Users\ПавловЕ\source\repos\DeliveryOfGoods\DeliveryOfGoods\obj\Debug\DeliveryOfGoods.csproj.CoreCompileInputs.cache
+C:\Users\ПавловЕ\source\repos\DeliveryOfGoods\DeliveryOfGoods\obj\Debug\DeliveryOfGoods.csproj.CopyComplete
+C:\Users\ПавловЕ\source\repos\DeliveryOfGoods\DeliveryOfGoods\obj\Debug\DeliveryOfGoods.exe
+C:\Users\ПавловЕ\source\repos\DeliveryOfGoods\DeliveryOfGoods\obj\Debug\DeliveryOfGoods.pdb
+C:\Users\ПавловЕ\source\repos\DeliveryOfGoods\DeliveryOfGoods\obj\Debug\DeliveryOfGoods.Migrations.InitialCreate.resources
+C:\Users\ПавловЕ\source\repos\DeliveryOfGoods\DeliveryOfGoods\obj\Debug\DeliveryOfGoods.csproj.GenerateResource.cache
+C:\Users\ПавловЕ\source\repos\DeliveryOfGoods\DeliveryOfGoods\obj\Debug\DeliveryOfGoods.Migrations.AddCarCreationDate.resources
